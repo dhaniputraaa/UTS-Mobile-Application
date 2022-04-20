@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
                     //         bottom:
                     //             BorderSide(color: Colors.black, width: 0.2))),
                     child: Text(
-                        "Hi, currently I am studying at the Faculty of Enginerring and Informatics at the Universitas Pendidikan Nasional. My point of interest includes web development, mobile apps development, and UI/UX",
+                        "Hai, saat ini saya sedang kuliah di Fakultas Teknik dan Informatika Universitas Pendidikan Nasional. Dan keahlian yang saya dapati mencakup pengembangan web, pengembangan aplikasi seluler, dan UI/UX",
                         maxLines: 4,
                         textAlign: TextAlign.center,
                         style:
