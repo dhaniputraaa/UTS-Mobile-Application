@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(fontWeight: FontWeight.bold),
                 ),
               ),
-              Text("Student", style: TextStyle(height: 1, fontSize: 14))
+              Text("Mahasiswa", style: TextStyle(height: 1, fontSize: 14))
             ],
           ),
         ),
@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
             margin: EdgeInsets.only(top: 35),
             child: Column(
               children: [
-                Text("About me", style: TextStyle(fontWeight: FontWeight.bold)),
+                Text("Tentang", style: TextStyle(fontWeight: FontWeight.bold)),
                 Container(
                     margin: EdgeInsets.all(15),
                     // decoration: BoxDecoration(
